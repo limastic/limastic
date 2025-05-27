@@ -1,0 +1,1 @@
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fwakapi.nfaust.fr%2Fapi%2Fcompat%2Fshields%2Fv1%2Fnfaust%2Finterval%3Atoday&style=for-the-badge&logo=42&logoColor=%23b887e6&logoSize=auto&label=-%20%20%20%20%20time%20spent%20coding%20today&color=%239d4de8)
